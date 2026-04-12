@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-<!--
-**andreaprogram/andreaprogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently learning Python with astrophysical purposes, specifically: Managing astronomical data 💻 & Dynamical simulations🪐 !
+- 🚀 I’m working on improving my GitHub skills through courses imparted by GitHub
 
+<!--
+**andreaprogram/andreaprogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
