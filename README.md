@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I'm currently learning Python with astrophysical purposes, specifically: Managing astronomical data 💻 & Dynamical simulations🪐 !
+- 🔭 I'm in process of learning Python with astrophysical purposes, specifically: Managing astronomical data 💻 & Dynamical simulations🪐 !
 - 🚀 I’m working on improving my GitHub skills through courses imparted by GitHub
 
 <!--
